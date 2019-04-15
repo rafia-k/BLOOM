@@ -1,0 +1,26 @@
+THE SITE: swehacksbloom.weebly.com
+
+Inspiration
+Diversity in workplaces is of the utmost importance, especially in tech fields. Now that women are gaining traction in these fields, our focus should be to promote inclusivity for women in the workplace to improve their overall experiences and show them that they are truly welcome. Women still hold only 38% of management positions, while men hold 62%. Issues such as hiring bias, microaggressions and unequal pay contribute to this inequality and are detrimental to female tech workers.
+
+One of the most common questions female students ask female engineers at career fairs and recruiting events is “how has your experience been as a female working at your company?” What we really want to know is if they have ever felt isolated, discriminated against, uncomfortable in their working environment, or if they have loved their experience overall. Therefore, based on our own needs we created BLOOM, an online resource for women in technology to come together and share their experiences working at various companies and learn about other companies through a system of rankings, reviews, and conversations.
+
+What it does
+The Ranking Section: This section ranks companies according to their overall rating or ranking by topic (equal pay, atmosphere, time flexibility, upward mobility, maternity support). By clicking on the button below a company, the user can go to a more detailed review of the company. It allows users to easily see potential compatibility with companies as well as share their own experiences. Additionally, it provides companies with an incentive to create a more inclusive environment as well as feedback on what areas specifically to improve.
+
+The Conversations Section: This section is a forum that allows users to interact with each other and ask for advice on common issues they face as women in tech fields. Users will be required to make an account before posting and will have the option to remain anonymous when posting reviews or having conversations. Through building this forum, we provide a positive outlet for women to express their concerns and bond over common experiences, thereby fostering a supportive and encouraging community.
+
+How we built it
+We used Weebly to create the website. We decided not to code the website from scratch with HTML, CSS and JavaScript due to the short time frame for the hackathon, and because we believed our ideas would be better expressed by building our vision through a website. Adobe Illustrator was used to create the logo and website background design and we used Photoshop for the company icon designs.
+
+Challenges we ran into
+While working on BLOOM, one of the challenges we faced was addressing all aspects the problem we were tackling. At first, we imagined having a website like Glassdoor to show women in tech rankings about companies as a tool for them to decide where to work. Our focus later shifted to include a forum to ask questions and an overall platform to build community. We were also torn between focusing more on ideation/expression or code. In a short time frame like this, expressing our ideas was the more important aspect, so we decided to go with creating a website through Weebly for the initial version.
+
+Accomplishments that we're proud of
+We are proud that we were able to find inspiration from our own experiences that could help people in similar situations such as choosing a company to work or intern at. We are proud to work toward empowering women because “empowered women empower women”. We worked to show both an easy-to-see simple ranking (ranking page and reviews) as well as advice (conversations page). We believe that BLOOM will be a very valuable resource for all women in technology and in promoting gender equality in the workforce.
+
+What we learned
+We learned how to draw from our own experiences to create something that potentially helps our own communities. We also learned that it’s not just about making a perfect product but about fleshing out out ideas. We also learned to weigh in possible problems such as skewed reviews and the need for anonymity.
+
+What's next for Bloom
+BLOOM could expand to include resources such as helpful website links to articles and blog posts. We could also reach out to tech companies to encourage all of their employees to leave a review and join the conversation. In addition, the focus of BLOOM could expand to provide a platform for other underrepresented minorities in tech, such as people of color, the disabled and LGBTQ.
